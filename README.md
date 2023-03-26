@@ -7,3 +7,4 @@ certains modules sont déjà activé.
 # les module pack additionelles pip ne seront peut-être pas ou les moin connues dans l'IDE!
 
 mais pour l'instant il n'y a que turtle et tkinter(les modules turtle par exemple dés que tu l'active font directement apparaître la page pour l'instant présent)
+l'IDE est open sources! mais dans : https://github.com/caperuisseau/IDE_open.git
